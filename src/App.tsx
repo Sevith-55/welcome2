@@ -1,9 +1,5 @@
-
 import './App.css'
-import React from 'react'
 import Confetti from 'react-confetti'
-
-
 
 function App() {
   return (
