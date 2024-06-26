@@ -12,8 +12,8 @@ function App() {
               height={screen.height}
               initialVelocityY={10}
               initialVelocityX={5}
-              gravity={0.02}
-            />k
+              gravity={0.05}
+            />
 
 
           </div>
